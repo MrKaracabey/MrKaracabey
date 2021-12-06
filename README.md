@@ -30,7 +30,7 @@ I'm working on both client-side and server-side development with several of prog
 
 
 - 🔭 I’m not currently working on :)
-- 💻 All of my projects are not  available at here if you wonder more contact me (Backend and .net core projects: microservice, gateways, cronjobs etc.)
+- 💻 All of my projects are not  available at here if you wonder more contact me (Backend and .net core projects: microservice, gateways, cronjobs, consumers,publishers etc.)
 - 📫 You can reach me at discord MustafaKARACABEY#2919
 
 -💬 Ask me about Software Engineering, BackEnd Development, FrontEnd Development, Android Development
