@@ -29,8 +29,8 @@ I'm a  Perfectionism Software Engineer
 I'm working on both client-side and server-side development with several of programming languages.
 
 
-- 🔭 I’m currently working on https://www.hepsiburada.com/
-- 💻 All of my projects are available at https://github.com/Mustafa-Karacabey and https://gitlab.com/MustafaKARACABEY
+- 🔭 I’m not currently working on :)
+- 💻 All of my projects are not  available at here if you wonder more contact me (Backend and .net core projects: microservice, gateways, cronjobs etc.)
 - 📫 You can reach me at discord MustafaKARACABEY#2919
 
 -💬 Ask me about Software Engineering, BackEnd Development, FrontEnd Development, Android Development
