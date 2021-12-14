@@ -1,7 +1,7 @@
 <h1 align="center"># Hi 👋, I'm Mustafa KARACABEY </h1>
 
 <h3 align="center">
-I'm a  Perfectionism Software Engineer
+I'm a  Perfectionist Software Engineer
 </h3>
 
 ![](https://komarev.com/ghpvc/?username=Mustafa-Karacabey&color=green&style=plastic)
